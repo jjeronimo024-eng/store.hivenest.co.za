@@ -1,0 +1,225 @@
+{
+    "cyber-initiate-hosting": {
+        "product_id": 2,
+        "product_name": "Cyber Initiate Hosting",
+        "product_slug": "cyber-initiate-hosting",
+        "page_url": "/hosting/linux-shared.php",
+        "product_type": "hosting",
+        "pricing_tiers": [
+            {
+                "pricing_id": 16,
+                "tier_name": "CYBER INITIATE",
+                "tier_slug": "cyber-initiate",
+                "tier_level": "basic",
+                "price": "8.00",
+                "setup_fee": "0.00",
+                "billing_cycle": "monthly",
+                "features": [
+                    "1 Website",
+                    "10GB SSD Storage",
+                    "100GB Bandwidth",
+                    "5 Email Accounts",
+                    "Free SSL Certificate",
+                    "cPanel Control Panel",
+                    "99.9% Uptime Guarantee"
+                ],
+                "is_featured": "0",
+                "sort_order": "1",
+                "is_active": "1"
+            },
+            {
+                "pricing_id": 17,
+                "tier_name": "DIGITAL WARRIOR",
+                "tier_slug": "digital-warrior",
+                "tier_level": "standard",
+                "price": "15.00",
+                "setup_fee": "0.00",
+                "billing_cycle": "monthly",
+                "features": [
+                    "10 Websites",
+                    "50GB SSD Storage",
+                    "Unlimited Bandwidth",
+                    "50 Email Accounts",
+                    "Free SSL Certificate",
+                    "Free Domain (.com/.co.za)",
+                    "cPanel + Softaculous",
+                    "Priority Support",
+                    "Daily Backups"
+                ],
+                "is_featured": "1",
+                "sort_order": "2",
+                "is_active": "1"
+            },
+            {
+                "pricing_id": 18,
+                "tier_name": "QUANTUM MASTER",
+                "tier_slug": "quantum-master",
+                "tier_level": "premium",
+                "price": "50.00",
+                "setup_fee": "0.00",
+                "billing_cycle": "monthly",
+                "features": [
+                    "Unlimited Websites",
+                    "200GB SSD Storage",
+                    "Unlimited Bandwidth",
+                    "Unlimited Email Accounts",
+                    "Wildcard SSL Certificate",
+                    "3 Free Domains",
+                    "Advanced cPanel",
+                    "24/7 Phone Support",
+                    "Real-time Backups",
+                    "Dedicated IP"
+                ],
+                "is_featured": "0",
+                "sort_order": "3",
+                "is_active": "1"
+            }
+        ]
+    },
+    "windows-vps": {
+        "product_id": 16,
+        "product_name": "Windows VPS Server",
+        "product_slug": "windows-vps",
+        "page_url": "/servers/windows.php",
+        "product_type": "server",
+        "pricing_tiers": [
+            {
+                "pricing_id": 28,
+                "tier_name": "WINDOWS BASIC",
+                "tier_slug": "windows-basic",
+                "tier_level": "basic",
+                "price": "149.00",
+                "setup_fee": "0.00",
+                "billing_cycle": "monthly",
+                "features": [
+                    "2 CPU Cores",
+                    "4GB RAM",
+                    "100GB SSD Storage",
+                    "Windows Server 2019/2022",
+                    "Remote Desktop Access",
+                    "Managed Updates",
+                    "Standard Support"
+                ],
+                "is_featured": "0",
+                "sort_order": "1",
+                "is_active": "1"
+            },
+            {
+                "pricing_id": 29,
+                "tier_name": "WINDOWS PROFESSIONAL",
+                "tier_slug": "windows-professional",
+                "tier_level": "standard",
+                "price": "299.00",
+                "setup_fee": "0.00",
+                "billing_cycle": "monthly",
+                "features": [
+                    "4 CPU Cores",
+                    "8GB RAM",
+                    "200GB SSD Storage",
+                    "Windows Server 2019/2022",
+                    "Remote Desktop Access",
+                    "SQL Server Express",
+                    "Managed Updates",
+                    "Priority Support"
+                ],
+                "is_featured": "1",
+                "sort_order": "2",
+                "is_active": "1"
+            },
+            {
+                "pricing_id": 30,
+                "tier_name": "WINDOWS ENTERPRISE",
+                "tier_slug": "windows-enterprise",
+                "tier_level": "premium",
+                "price": "599.00",
+                "setup_fee": "0.00",
+                "billing_cycle": "monthly",
+                "features": [
+                    "8 CPU Cores",
+                    "16GB RAM",
+                    "500GB SSD Storage",
+                    "Windows Server 2019/2022",
+                    "Remote Desktop Access",
+                    "SQL Server Standard",
+                    "Exchange Server",
+                    "Managed Updates",
+                    "24/7 Priority Support"
+                ],
+                "is_featured": "0",
+                "sort_order": "3",
+                "is_active": "1"
+            }
+        ]
+    },
+    "google-workspace-basic": {
+        "product_id": 7,
+        "product_name": "Google Workspace Basic",
+        "product_slug": "google-workspace-basic",
+        "page_url": "/email/google-workspace.php",
+        "product_type": "email",
+        "pricing_tiers": [
+            {
+                "pricing_id": 19,
+                "tier_name": "BUSINESS STARTER",
+                "tier_slug": "business-starter",
+                "tier_level": "basic",
+                "price": "6.00",
+                "setup_fee": "0.00",
+                "billing_cycle": "per_user_monthly",
+                "features": [
+                    "Custom Email (@yourcompany.com)",
+                    "30GB Storage per User",
+                    "Video Meetings (100 participants)",
+                    "Shared Calendars",
+                    "Docs, Sheets, Slides",
+                    "Standard Support"
+                ],
+                "is_featured": "0",
+                "sort_order": "1",
+                "is_active": "1"
+            },
+            {
+                "pricing_id": 20,
+                "tier_name": "BUSINESS STANDARD",
+                "tier_slug": "business-standard",
+                "tier_level": "standard",
+                "price": "12.00",
+                "setup_fee": "0.00",
+                "billing_cycle": "per_user_monthly",
+                "features": [
+                    "Custom Email (@yourcompany.com)",
+                    "2TB Storage per User",
+                    "Video Meetings (150 participants)",
+                    "Meeting Recording",
+                    "Shared Drives",
+                    "Enhanced Security",
+                    "Standard Support"
+                ],
+                "is_featured": "1",
+                "sort_order": "2",
+                "is_active": "1"
+            },
+            {
+                "pricing_id": 21,
+                "tier_name": "BUSINESS PLUS",
+                "tier_slug": "business-plus",
+                "tier_level": "premium",
+                "price": "18.00",
+                "setup_fee": "0.00",
+                "billing_cycle": "per_user_monthly",
+                "features": [
+                    "Custom Email (@yourcompany.com)",
+                    "5TB Storage per User",
+                    "Video Meetings (500 participants)",
+                    "Attendance Tracking",
+                    "Advanced Security",
+                    "Vault (eDiscovery)",
+                    "Enhanced Support"
+                ],
+                "is_featured": "0",
+                "sort_order": "3",
+                "is_active": "1"
+            }
+        ]
+    }
+}

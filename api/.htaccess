@@ -1,0 +1,14 @@
+RewriteEngine On
+
+# Handle CORS preflight requests
+RewriteCond %{REQUEST_METHOD} OPTIONS
+RewriteRule ^(.*)$ index.php [QSA,L]
+
+# Route all API requests to index.php
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ index.php [QSA,L]
+
+# CORS is intentionally handled by api/index.php and the endpoint helpers.
+# Do not set wildcard headers here: Apache-level headers would override the
+# explicit storefront/client-portal/CRM origin allowlist.

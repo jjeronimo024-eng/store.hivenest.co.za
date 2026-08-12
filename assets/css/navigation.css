@@ -1,0 +1,282 @@
+/* Enhanced Navigation with Dropdowns */
+.navbar {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  background: rgba(10, 10, 10, 0.95);
+  backdrop-filter: blur(10px);
+  border-bottom: 1px solid rgba(0, 255, 255, 0.3);
+  z-index: 1000;
+  transition: all 0.3s ease;
+}
+
+.navbar-container {
+  width: 100%;
+  max-width: none;
+  margin: 0 auto;
+  padding: 0 clamp(12px, 2vw, 32px);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 70px;
+  box-sizing: border-box;
+}
+
+.navbar-brand {
+  font-family: var(--font-heading);
+  font-size: 1.8rem;
+  font-weight: 900;
+  color: var(--cyber-neon-cyan);
+  text-decoration: none;
+  text-shadow: 0 0 10px var(--cyber-neon-cyan);
+  letter-spacing: 2px;
+  flex: 0 0 auto;
+}
+
+.navbar-nav {
+  display: flex;
+  list-style: none;
+  align-items: center;
+  justify-content: flex-end;
+  gap: clamp(0.3rem, 0.8vw, 1rem);
+  min-width: 0;
+  margin: 0;
+  padding: 0;
+}
+
+.navbar-nav li {
+  position: relative;
+}
+
+.currency-nav select {
+  width: 58px;
+  padding: 6px 3px;
+  color: var(--cyber-neon-cyan);
+  background: rgba(0, 0, 0, 0.88);
+  border: 1px solid rgba(0, 255, 255, 0.5);
+  border-radius: 5px;
+  font: inherit;
+  font-size: 0.7rem;
+  cursor: pointer;
+}
+
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+.navbar-nav a {
+  color: rgba(255, 255, 255, 0.8);
+  text-decoration: none;
+  font-weight: 500;
+  transition: all 0.3s ease;
+  padding: 7px clamp(5px, 0.55vw, 10px);
+  border-radius: 4px;
+  text-transform: uppercase;
+  font-size: clamp(0.72rem, 0.72vw, 0.85rem);
+  letter-spacing: 0.5px;
+  display: flex;
+  align-items: center;
+  gap: clamp(0.2rem, 0.35vw, 0.5rem);
+}
+
+.navbar-nav a:hover,
+.navbar-nav a.active {
+  color: var(--cyber-neon-cyan);
+  text-shadow: 0 0 10px var(--cyber-neon-cyan);
+}
+
+/* Dropdown Styles */
+.dropdown {
+  position: relative;
+}
+
+.dropdown-toggle::after {
+  content: '▼';
+  font-size: 0.7rem;
+  color: var(--cyber-neon-cyan);
+  margin-left: 0.5rem;
+  transition: transform 0.3s ease;
+}
+
+.dropdown:hover .dropdown-toggle::after {
+  transform: rotate(180deg);
+}
+
+.dropdown-menu {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  min-width: 220px;
+  background: rgba(10, 10, 10, 0.95);
+  backdrop-filter: blur(15px);
+  border: 1px solid rgba(0, 255, 255, 0.3);
+  border-radius: 8px;
+  box-shadow: 0 10px 30px rgba(0, 255, 255, 0.2);
+  opacity: 0;
+  visibility: hidden;
+  transform: translateY(-10px);
+  transition: all 0.3s ease;
+  z-index: 1001;
+  padding: 0.5rem 0;
+}
+
+.dropdown:hover .dropdown-menu {
+  opacity: 1;
+  visibility: visible;
+  transform: translateY(0);
+}
+
+.dropdown-item {
+  display: block;
+  padding: 0.75rem 1rem;
+  color: rgba(255, 255, 255, 0.8);
+  text-decoration: none;
+  transition: all 0.3s ease;
+  font-size: 0.9rem;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.dropdown-item:last-child {
+  border-bottom: none;
+}
+
+.dropdown-item:hover {
+  background: rgba(0, 255, 255, 0.1);
+  color: var(--cyber-neon-cyan);
+  text-shadow: 0 0 10px var(--cyber-neon-cyan);
+  transform: translateX(5px);
+}
+
+.dropdown-item i {
+  margin-right: 0.5rem;
+  width: 16px;
+  text-align: center;
+}
+
+/* Mobile Menu Toggle */
+.mobile-menu-toggle {
+  display: none;
+  flex-direction: column;
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 5px;
+  z-index: 1100;
+  position: relative;
+}
+
+.hamburger-line {
+  width: 25px;
+  height: 3px;
+  background: var(--cyber-neon-cyan);
+  margin: 3px 0;
+  transition: all 0.3s ease;
+  box-shadow: 0 0 5px var(--cyber-neon-cyan);
+}
+
+/* Mobile Responsive */
+@media (max-width: 1279px) {
+  .navbar-nav {
+    display: none !important;
+  }
+  
+  .mobile-menu-toggle {
+    display: flex !important;
+  }
+  
+  /* Hide dropdowns on mobile - they should be handled by mobile menu */
+  .dropdown-menu {
+    display: none !important;
+  }
+}
+
+/* ===== Navbar-scoped overrides ===== */
+.cart-css-icon {
+  width: 20px;
+  height: 18px;
+  display: inline-block;
+  flex: 0 0 auto;
+  position: relative;
+  color: currentColor;
+}
+
+.cart-css-icon::before {
+  content: "";
+  position: absolute;
+  left: 4px;
+  top: 3px;
+  width: 13px;
+  height: 9px;
+  border: 2px solid currentColor;
+  border-top-width: 2px;
+  border-radius: 1px 1px 3px 3px;
+  transform: skewX(-8deg);
+  box-sizing: border-box;
+}
+
+.cart-css-icon::after {
+  content: "";
+  position: absolute;
+  left: 5px;
+  bottom: 0;
+  width: 3px;
+  height: 3px;
+  border-radius: 50%;
+  background: currentColor;
+  box-shadow: 10px 0 0 currentColor;
+}
+
+.cart-icon .cart-css-icon {
+  background: linear-gradient(currentColor, currentColor) 0 0 / 6px 2px no-repeat;
+}
+
+.cart-icon {
+  display: inline-flex !important;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
+/* Compact "Access Portal" button inside the top navbar (was too big) */
+.navbar-nav .btn,
+.navbar-nav .btn-primary {
+  padding: 7px 16px !important;
+  font-size: 0.78rem !important;
+  letter-spacing: 0.8px;
+  border-radius: 6px;
+  line-height: 1.2;
+}
+
+/* Final compact overrides: keep every action visible under desktop zoom. */
+@media (min-width: 1280px) and (max-width: 1800px) {
+  .navbar-container {
+    padding-inline: 12px;
+  }
+  .navbar-nav {
+    gap: 0.25rem;
+  }
+  .navbar-nav a {
+    padding: 6px 5px;
+    font-size: 0.7rem;
+    letter-spacing: 0.2px;
+  }
+  .navbar-brand {
+    font-size: 1.45rem;
+    letter-spacing: 1px;
+  }
+  .dropdown-toggle::after {
+    margin-left: 0.2rem;
+  }
+  .navbar-nav .btn,
+  .navbar-nav .btn-primary {
+    padding: 6px 9px !important;
+    font-size: 0.7rem !important;
+  }
+}

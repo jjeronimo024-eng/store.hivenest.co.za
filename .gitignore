@@ -1,0 +1,104 @@
+# ==========================================
+# HIVENEST STORE
+# Git Ignore
+# ==========================================
+
+# ------------------------------
+# Environment / credentials
+# ------------------------------
+.env
+.env.*
+!.env.example
+!.env.sample
+
+# ------------------------------
+# Private keys / certificates
+# ------------------------------
+*.pem
+*.key
+*.p12
+*.pfx
+
+# ------------------------------
+# Logs
+# ------------------------------
+*.log
+logs/
+log/
+
+# ------------------------------
+# Uploads / customer data
+# ------------------------------
+uploads/
+private/
+customer-data/
+customer_data/
+
+# ------------------------------
+# Backups
+# ------------------------------
+*.bak
+*.backup
+*.dump
+*.sql.gz
+
+# ------------------------------
+# Dependencies
+# ------------------------------
+node_modules/
+vendor/
+
+# ------------------------------
+# Local development
+# ------------------------------
+.vscode/
+!.vscode/extensions.json
+!.vscode/settings.json
+
+# ------------------------------
+# Temporary files
+# ------------------------------
+*.tmp
+*.temp
+*.swp
+*.swo
+
+# ------------------------------
+# OS files
+# ------------------------------
+Thumbs.db
+.DS_Store
+
+# ------------------------------
+# Archives
+# ------------------------------
+*.zip
+*.7z
+*.rar
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Python virtual environments
+.venv/
+venv/
+env/
+
+# Local databases
+*.db
+*.sqlite
+*.sqlite3
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db

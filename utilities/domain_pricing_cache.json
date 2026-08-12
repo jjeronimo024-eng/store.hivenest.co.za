@@ -1,0 +1,2554 @@
+[
+  {
+    "extension": ".com",
+    "register_price": 11.3,
+    "renew_price": 11.3,
+    "transfer_price": 11.3,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".net",
+    "register_price": 12.76,
+    "renew_price": 12.76,
+    "transfer_price": 12.76,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".org",
+    "register_price": 13.13,
+    "renew_price": 13.13,
+    "transfer_price": 13.13,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".co.za",
+    "register_price": 5.0,
+    "renew_price": 5.0,
+    "transfer_price": 5.0,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".org.za",
+    "register_price": 5.0,
+    "renew_price": 5.0,
+    "transfer_price": 5.0,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".joburg",
+    "register_price": 19.15,
+    "renew_price": 19.15,
+    "transfer_price": 19.15,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".capetown",
+    "register_price": 19.15,
+    "renew_price": 19.15,
+    "transfer_price": 19.15,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".africa",
+    "register_price": 1.67,
+    "renew_price": 1.67,
+    "transfer_price": 1.67,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".app",
+    "register_price": 16.78,
+    "renew_price": 16.78,
+    "transfer_price": 16.78,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".tech",
+    "register_price": 69.06,
+    "renew_price": 69.06,
+    "transfer_price": 69.06,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".academy",
+    "register_price": 35.66,
+    "renew_price": 35.66,
+    "transfer_price": 35.66,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".accountant",
+    "register_price": 24.44,
+    "renew_price": 24.44,
+    "transfer_price": 24.44,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".accountants",
+    "register_price": 86.66,
+    "renew_price": 86.66,
+    "transfer_price": 86.66,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".actor",
+    "register_price": 34.66,
+    "renew_price": 34.66,
+    "transfer_price": 34.66,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".adult",
+    "register_price": 102.27,
+    "renew_price": 102.27,
+    "transfer_price": 102.27,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".agency",
+    "register_price": 22.8,
+    "renew_price": 22.8,
+    "transfer_price": 22.8,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".airforce",
+    "register_price": 31.92,
+    "renew_price": 31.92,
+    "transfer_price": 31.92,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".amsterdam",
+    "register_price": 34.48,
+    "renew_price": 34.48,
+    "transfer_price": 34.48,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".archi",
+    "register_price": 77.54,
+    "renew_price": 77.54,
+    "transfer_price": 77.54,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".army",
+    "register_price": 30.1,
+    "renew_price": 30.1,
+    "transfer_price": 30.1,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".art",
+    "register_price": 25.72,
+    "renew_price": 25.72,
+    "transfer_price": 25.72,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".asia",
+    "register_price": 13.22,
+    "renew_price": 13.22,
+    "transfer_price": 13.22,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".associates",
+    "register_price": 31.01,
+    "renew_price": 31.01,
+    "transfer_price": 31.01,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".attorney",
+    "register_price": 44.06,
+    "renew_price": 44.06,
+    "transfer_price": 44.06,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".au",
+    "register_price": 7.29,
+    "renew_price": 7.29,
+    "transfer_price": 7.29,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".auction",
+    "register_price": 27.09,
+    "renew_price": 27.09,
+    "transfer_price": 27.09,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".audio",
+    "register_price": 121.7,
+    "renew_price": 121.7,
+    "transfer_price": 121.7,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".auto",
+    "register_price": 2490.72,
+    "renew_price": 2490.72,
+    "transfer_price": 2490.72,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".band",
+    "register_price": 22.8,
+    "renew_price": 22.8,
+    "transfer_price": 22.8,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".bar",
+    "register_price": 61.3,
+    "renew_price": 61.3,
+    "transfer_price": 61.3,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".bargains",
+    "register_price": 29.19,
+    "renew_price": 29.19,
+    "transfer_price": 29.19,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".beer",
+    "register_price": 31.1,
+    "renew_price": 31.1,
+    "transfer_price": 31.1,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".berlin",
+    "register_price": 52.18,
+    "renew_price": 52.18,
+    "transfer_price": 52.18,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".best",
+    "register_price": 18.24,
+    "renew_price": 18.24,
+    "transfer_price": 18.24,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".bet",
+    "register_price": 19.52,
+    "renew_price": 19.52,
+    "transfer_price": 19.52,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".bid",
+    "register_price": 24.44,
+    "renew_price": 24.44,
+    "transfer_price": 24.44,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".bike",
+    "register_price": 29.19,
+    "renew_price": 29.19,
+    "transfer_price": 29.19,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".bio",
+    "register_price": 61.85,
+    "renew_price": 61.85,
+    "transfer_price": 61.85,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".biz",
+    "register_price": 20.7,
+    "renew_price": 20.7,
+    "transfer_price": 20.7,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".black",
+    "register_price": 53.64,
+    "renew_price": 53.64,
+    "transfer_price": 53.64,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".blackfriday",
+    "register_price": 121.7,
+    "renew_price": 121.7,
+    "transfer_price": 121.7,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".blog",
+    "register_price": 23.99,
+    "renew_price": 23.99,
+    "transfer_price": 23.99,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".blue",
+    "register_price": 18.24,
+    "renew_price": 18.24,
+    "transfer_price": 18.24,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".br.com",
+    "register_price": 40.23,
+    "renew_price": 40.23,
+    "transfer_price": 40.23,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".build",
+    "register_price": 61.3,
+    "renew_price": 61.3,
+    "transfer_price": 61.3,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".business",
+    "register_price": 10.94,
+    "renew_price": 10.94,
+    "transfer_price": 10.94,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".buzz",
+    "register_price": 31.19,
+    "renew_price": 31.19,
+    "transfer_price": 31.19,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".bz",
+    "register_price": 24.9,
+    "renew_price": 24.9,
+    "transfer_price": 24.9,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".ca",
+    "register_price": 13.77,
+    "renew_price": 13.77,
+    "transfer_price": 13.77,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".cafe",
+    "register_price": 34.57,
+    "renew_price": 34.57,
+    "transfer_price": 34.57,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".cam",
+    "register_price": 17.23,
+    "renew_price": 17.23,
+    "transfer_price": 17.23,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".camera",
+    "register_price": 43.15,
+    "renew_price": 43.15,
+    "transfer_price": 43.15,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".camp",
+    "register_price": 44.24,
+    "renew_price": 44.24,
+    "transfer_price": 44.24,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".car",
+    "register_price": 2490.72,
+    "renew_price": 2490.72,
+    "transfer_price": 2490.72,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".career",
+    "register_price": 91.04,
+    "renew_price": 91.04,
+    "transfer_price": 91.04,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".cars",
+    "register_price": 2490.72,
+    "renew_price": 2490.72,
+    "transfer_price": 2490.72,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".casa",
+    "register_price": 16.69,
+    "renew_price": 16.69,
+    "transfer_price": 16.69,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".cash",
+    "register_price": 27.09,
+    "renew_price": 27.09,
+    "transfer_price": 27.09,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".casino",
+    "register_price": 128.63,
+    "renew_price": 128.63,
+    "transfer_price": 128.63,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".cc",
+    "register_price": 9.57,
+    "renew_price": 9.57,
+    "transfer_price": 9.57,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".center",
+    "register_price": 20.98,
+    "renew_price": 20.98,
+    "transfer_price": 20.98,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".christmas",
+    "register_price": 58.47,
+    "renew_price": 58.47,
+    "transfer_price": 58.47,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".city",
+    "register_price": 20.98,
+    "renew_price": 20.98,
+    "transfer_price": 20.98,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".cleaning",
+    "register_price": 56.56,
+    "renew_price": 56.56,
+    "transfer_price": 56.56,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".click",
+    "register_price": 9.84,
+    "renew_price": 9.84,
+    "transfer_price": 9.84,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".cloud",
+    "register_price": 18.24,
+    "renew_price": 18.24,
+    "transfer_price": 18.24,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".club",
+    "register_price": 21.07,
+    "renew_price": 21.07,
+    "transfer_price": 21.07,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".cn",
+    "register_price": 7.2,
+    "renew_price": 7.2,
+    "transfer_price": 7.2,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".cn.com",
+    "register_price": 32.47,
+    "renew_price": 32.47,
+    "transfer_price": 32.47,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".co",
+    "register_price": 28.18,
+    "renew_price": 28.18,
+    "transfer_price": 28.18,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".co.com",
+    "register_price": 23.99,
+    "renew_price": 23.99,
+    "transfer_price": 23.99,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".co.de",
+    "register_price": 8.75,
+    "renew_price": 8.75,
+    "transfer_price": 8.75,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".coffee",
+    "register_price": 29.19,
+    "renew_price": 29.19,
+    "transfer_price": 29.19,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".college",
+    "register_price": 61.3,
+    "renew_price": 61.3,
+    "transfer_price": 61.3,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".com.br",
+    "register_price": 12.03,
+    "renew_price": 12.03,
+    "transfer_price": 12.03,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".com.de",
+    "register_price": 6.74,
+    "renew_price": 6.74,
+    "transfer_price": 6.74,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".com.mx",
+    "register_price": 12.49,
+    "renew_price": 12.49,
+    "transfer_price": 12.49,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".company",
+    "register_price": 11.85,
+    "renew_price": 11.85,
+    "transfer_price": 11.85,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".consulting",
+    "register_price": 36.48,
+    "renew_price": 36.48,
+    "transfer_price": 36.48,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".cooking",
+    "register_price": 31.1,
+    "renew_price": 31.1,
+    "transfer_price": 31.1,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".cool",
+    "register_price": 29.19,
+    "renew_price": 29.19,
+    "transfer_price": 29.19,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".country",
+    "register_price": 2567.37,
+    "renew_price": 2567.37,
+    "transfer_price": 2567.37,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".coupons",
+    "register_price": 41.23,
+    "renew_price": 41.23,
+    "transfer_price": 41.23,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".courses",
+    "register_price": 36.76,
+    "renew_price": 36.76,
+    "transfer_price": 36.76,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".credit",
+    "register_price": 88.49,
+    "renew_price": 88.49,
+    "transfer_price": 88.49,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".creditcard",
+    "register_price": 148.71,
+    "renew_price": 148.71,
+    "transfer_price": 148.71,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".cricket",
+    "register_price": 24.44,
+    "renew_price": 24.44,
+    "transfer_price": 24.44,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".cymru",
+    "register_price": 14.41,
+    "renew_price": 14.41,
+    "transfer_price": 14.41,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".dance",
+    "register_price": 20.98,
+    "renew_price": 20.98,
+    "transfer_price": 20.98,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".date",
+    "register_price": 24.44,
+    "renew_price": 24.44,
+    "transfer_price": 24.44,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".de",
+    "register_price": 6.74,
+    "renew_price": 6.74,
+    "transfer_price": 6.74,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".degree",
+    "register_price": 37.4,
+    "renew_price": 37.4,
+    "transfer_price": 37.4,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".democrat",
+    "register_price": 28.27,
+    "renew_price": 28.27,
+    "transfer_price": 28.27,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".dentist",
+    "register_price": 53.91,
+    "renew_price": 53.91,
+    "transfer_price": 53.91,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".desi",
+    "register_price": 14.41,
+    "renew_price": 14.41,
+    "transfer_price": 14.41,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".design",
+    "register_price": 54.37,
+    "renew_price": 54.37,
+    "transfer_price": 54.37,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".dev",
+    "register_price": 14.95,
+    "renew_price": 14.95,
+    "transfer_price": 14.95,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".diet",
+    "register_price": 121.7,
+    "renew_price": 121.7,
+    "transfer_price": 121.7,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".doctor",
+    "register_price": 94.88,
+    "renew_price": 94.88,
+    "transfer_price": 94.88,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".dog",
+    "register_price": 47.43,
+    "renew_price": 47.43,
+    "transfer_price": 47.43,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".download",
+    "register_price": 24.44,
+    "renew_price": 24.44,
+    "transfer_price": 24.44,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".durban",
+    "register_price": 19.15,
+    "renew_price": 19.15,
+    "transfer_price": 19.15,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".earth",
+    "register_price": 18.24,
+    "renew_price": 18.24,
+    "transfer_price": 18.24,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".ec",
+    "register_price": 41.23,
+    "renew_price": 41.23,
+    "transfer_price": 41.23,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".eco",
+    "register_price": 134.38,
+    "renew_price": 134.38,
+    "transfer_price": 134.38,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".email",
+    "register_price": 21.89,
+    "renew_price": 21.89,
+    "transfer_price": 21.89,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".energy",
+    "register_price": 88.49,
+    "renew_price": 88.49,
+    "transfer_price": 88.49,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".engineer",
+    "register_price": 28.27,
+    "renew_price": 28.27,
+    "transfer_price": 28.27,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".es",
+    "register_price": 6.74,
+    "renew_price": 6.74,
+    "transfer_price": 6.74,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".eu",
+    "register_price": 7.47,
+    "renew_price": 7.47,
+    "transfer_price": 7.47,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".faith",
+    "register_price": 24.44,
+    "renew_price": 24.44,
+    "transfer_price": 24.44,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".family",
+    "register_price": 26.45,
+    "renew_price": 26.45,
+    "transfer_price": 26.45,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".fans",
+    "register_price": 63.22,
+    "renew_price": 63.22,
+    "transfer_price": 63.22,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".fashion",
+    "register_price": 32.11,
+    "renew_price": 32.11,
+    "transfer_price": 32.11,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".feedback",
+    "register_price": 23.99,
+    "renew_price": 23.99,
+    "transfer_price": 23.99,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".fishing",
+    "register_price": 32.11,
+    "renew_price": 32.11,
+    "transfer_price": 32.11,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".fit",
+    "register_price": 32.11,
+    "renew_price": 32.11,
+    "transfer_price": 32.11,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".fitness",
+    "register_price": 26.45,
+    "renew_price": 26.45,
+    "transfer_price": 26.45,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".flowers",
+    "register_price": 121.7,
+    "renew_price": 121.7,
+    "transfer_price": 121.7,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".fm",
+    "register_price": 112.12,
+    "renew_price": 112.12,
+    "transfer_price": 112.12,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".forsale",
+    "register_price": 27.09,
+    "renew_price": 27.09,
+    "transfer_price": 27.09,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".fun",
+    "register_price": 32.84,
+    "renew_price": 32.84,
+    "transfer_price": 32.84,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".futbol",
+    "register_price": 11.85,
+    "renew_price": 11.85,
+    "transfer_price": 11.85,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".game",
+    "register_price": 365.02,
+    "renew_price": 365.02,
+    "transfer_price": 365.02,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".games",
+    "register_price": 22.8,
+    "renew_price": 22.8,
+    "transfer_price": 22.8,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".garden",
+    "register_price": 32.11,
+    "renew_price": 32.11,
+    "transfer_price": 32.11,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".gb.net",
+    "register_price": 10.57,
+    "renew_price": 10.57,
+    "transfer_price": 10.57,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".gdn",
+    "register_price": 10.57,
+    "renew_price": 10.57,
+    "transfer_price": 10.57,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".gift",
+    "register_price": 16.32,
+    "renew_price": 16.32,
+    "transfer_price": 16.32,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".gives",
+    "register_price": 25.9,
+    "renew_price": 25.9,
+    "transfer_price": 25.9,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".glass",
+    "register_price": 47.43,
+    "renew_price": 47.43,
+    "transfer_price": 47.43,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".global",
+    "register_price": 67.5,
+    "renew_price": 67.5,
+    "transfer_price": 67.5,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".gmbh",
+    "register_price": 31.92,
+    "renew_price": 31.92,
+    "transfer_price": 31.92,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".gold",
+    "register_price": 86.66,
+    "renew_price": 86.66,
+    "transfer_price": 86.66,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".green",
+    "register_price": 61.39,
+    "renew_price": 61.39,
+    "transfer_price": 61.39,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".group",
+    "register_price": 23.71,
+    "renew_price": 23.71,
+    "transfer_price": 23.71,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".guitars",
+    "register_price": 121.7,
+    "renew_price": 121.7,
+    "transfer_price": 121.7,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".guru",
+    "register_price": 32.84,
+    "renew_price": 32.84,
+    "transfer_price": 32.84,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".haus",
+    "register_price": 25.9,
+    "renew_price": 25.9,
+    "transfer_price": 25.9,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".health",
+    "register_price": 72.43,
+    "renew_price": 72.43,
+    "transfer_price": 72.43,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".help",
+    "register_price": 26.36,
+    "renew_price": 26.36,
+    "transfer_price": 26.36,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".hiphop",
+    "register_price": 107.56,
+    "renew_price": 107.56,
+    "transfer_price": 107.56,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".homes",
+    "register_price": 33.75,
+    "renew_price": 33.75,
+    "transfer_price": 33.75,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".horse",
+    "register_price": 32.11,
+    "renew_price": 32.11,
+    "transfer_price": 32.11,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".hospital",
+    "register_price": 45.61,
+    "renew_price": 45.61,
+    "transfer_price": 45.61,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".host",
+    "register_price": 112.76,
+    "renew_price": 112.76,
+    "transfer_price": 112.76,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".hosting",
+    "register_price": 365.02,
+    "renew_price": 365.02,
+    "transfer_price": 365.02,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".how",
+    "register_price": 23.99,
+    "renew_price": 23.99,
+    "transfer_price": 23.99,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".icu",
+    "register_price": 16.32,
+    "renew_price": 16.32,
+    "transfer_price": 16.32,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".id",
+    "register_price": 21.07,
+    "renew_price": 21.07,
+    "transfer_price": 21.07,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".immobilien",
+    "register_price": 25.9,
+    "renew_price": 25.9,
+    "transfer_price": 25.9,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".in",
+    "register_price": 11.12,
+    "renew_price": 11.12,
+    "transfer_price": 11.12,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".in.net",
+    "register_price": 7.2,
+    "renew_price": 7.2,
+    "transfer_price": 7.2,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".info",
+    "register_price": 26.18,
+    "renew_price": 26.18,
+    "transfer_price": 26.18,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".ink",
+    "register_price": 31.56,
+    "renew_price": 31.56,
+    "transfer_price": 31.56,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".investments",
+    "register_price": 87.58,
+    "renew_price": 87.58,
+    "transfer_price": 87.58,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".irish",
+    "register_price": 18.24,
+    "renew_price": 18.24,
+    "transfer_price": 18.24,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".jetzt",
+    "register_price": 18.24,
+    "renew_price": 18.24,
+    "transfer_price": 18.24,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".jobs",
+    "register_price": 117.87,
+    "renew_price": 117.87,
+    "transfer_price": 117.87,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".juegos",
+    "register_price": 365.02,
+    "renew_price": 365.02,
+    "transfer_price": 365.02,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".kaufen",
+    "register_price": 28.27,
+    "renew_price": 28.27,
+    "transfer_price": 28.27,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".kim",
+    "register_price": 18.24,
+    "renew_price": 18.24,
+    "transfer_price": 18.24,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".kitchen",
+    "register_price": 48.53,
+    "renew_price": 48.53,
+    "transfer_price": 48.53,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".kiwi",
+    "register_price": 29.73,
+    "renew_price": 29.73,
+    "transfer_price": 29.73,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".la",
+    "register_price": 30.65,
+    "renew_price": 30.65,
+    "transfer_price": 30.65,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".lat",
+    "register_price": 27.27,
+    "renew_price": 27.27,
+    "transfer_price": 27.27,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".law",
+    "register_price": 90.95,
+    "renew_price": 90.95,
+    "transfer_price": 90.95,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".lawyer",
+    "register_price": 44.06,
+    "renew_price": 44.06,
+    "transfer_price": 44.06,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".lgbt",
+    "register_price": 1449.73,
+    "renew_price": 1449.73,
+    "transfer_price": 1449.73,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".life",
+    "register_price": 27.36,
+    "renew_price": 27.36,
+    "transfer_price": 27.36,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".link",
+    "register_price": 8.66,
+    "renew_price": 8.66,
+    "transfer_price": 8.66,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".live",
+    "register_price": 24.62,
+    "renew_price": 24.62,
+    "transfer_price": 24.62,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".loan",
+    "register_price": 24.44,
+    "renew_price": 24.44,
+    "transfer_price": 24.44,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".loans",
+    "register_price": 88.49,
+    "renew_price": 88.49,
+    "transfer_price": 88.49,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".lol",
+    "register_price": 27.27,
+    "renew_price": 27.27,
+    "transfer_price": 27.27,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".london",
+    "register_price": 39.31,
+    "renew_price": 39.31,
+    "transfer_price": 39.31,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".lotto",
+    "register_price": 1532.75,
+    "renew_price": 1532.75,
+    "transfer_price": 1532.75,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".love",
+    "register_price": 25.9,
+    "renew_price": 25.9,
+    "transfer_price": 25.9,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".ltd",
+    "register_price": 22.8,
+    "renew_price": 22.8,
+    "transfer_price": 22.8,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".ltda",
+    "register_price": 33.57,
+    "renew_price": 33.57,
+    "transfer_price": 33.57,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".luxury",
+    "register_price": 478.98,
+    "renew_price": 478.98,
+    "transfer_price": 478.98,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".market",
+    "register_price": 34.57,
+    "renew_price": 34.57,
+    "transfer_price": 34.57,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".markets",
+    "register_price": 52.91,
+    "renew_price": 52.91,
+    "transfer_price": 52.91,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".me",
+    "register_price": 17.33,
+    "renew_price": 17.33,
+    "transfer_price": 17.33,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".media",
+    "register_price": 34.57,
+    "renew_price": 34.57,
+    "transfer_price": 34.57,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".men",
+    "register_price": 24.44,
+    "renew_price": 24.44,
+    "transfer_price": 24.44,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".menu",
+    "register_price": 30.65,
+    "renew_price": 30.65,
+    "transfer_price": 30.65,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".miami",
+    "register_price": 19.61,
+    "renew_price": 19.61,
+    "transfer_price": 19.61,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".mn",
+    "register_price": 43.15,
+    "renew_price": 43.15,
+    "transfer_price": 43.15,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".mobi",
+    "register_price": 47.89,
+    "renew_price": 47.89,
+    "transfer_price": 47.89,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".moda",
+    "register_price": 30.28,
+    "renew_price": 30.28,
+    "transfer_price": 30.28,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".mom",
+    "register_price": 30.65,
+    "renew_price": 30.65,
+    "transfer_price": 30.65,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".mortgage",
+    "register_price": 46.34,
+    "renew_price": 46.34,
+    "transfer_price": 46.34,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".mx",
+    "register_price": 42.14,
+    "renew_price": 42.14,
+    "transfer_price": 42.14,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".nagoya",
+    "register_price": 20.06,
+    "renew_price": 20.06,
+    "transfer_price": 20.06,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".name",
+    "register_price": 8.11,
+    "renew_price": 8.11,
+    "transfer_price": 8.11,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".navy",
+    "register_price": 30.28,
+    "renew_price": 30.28,
+    "transfer_price": 30.28,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".news",
+    "register_price": 24.62,
+    "renew_price": 24.62,
+    "transfer_price": 24.62,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".ninja",
+    "register_price": 25.54,
+    "renew_price": 25.54,
+    "transfer_price": 25.54,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".nl",
+    "register_price": 9.11,
+    "renew_price": 9.11,
+    "transfer_price": 9.11,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".nyc",
+    "register_price": 32.29,
+    "renew_price": 32.29,
+    "transfer_price": 32.29,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".one",
+    "register_price": 18.24,
+    "renew_price": 18.24,
+    "transfer_price": 18.24,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".online",
+    "register_price": 33.75,
+    "renew_price": 33.75,
+    "transfer_price": 33.75,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".ooo",
+    "register_price": 24.9,
+    "renew_price": 24.9,
+    "transfer_price": 24.9,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".org.mx",
+    "register_price": 12.49,
+    "renew_price": 12.49,
+    "transfer_price": 12.49,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".page",
+    "register_price": 15.23,
+    "renew_price": 15.23,
+    "transfer_price": 15.23,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".party",
+    "register_price": 24.44,
+    "renew_price": 24.44,
+    "transfer_price": 24.44,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".pet",
+    "register_price": 19.15,
+    "renew_price": 19.15,
+    "transfer_price": 19.15,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".ph",
+    "register_price": 42.96,
+    "renew_price": 42.96,
+    "transfer_price": 42.96,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".photo",
+    "register_price": 27.09,
+    "renew_price": 27.09,
+    "transfer_price": 27.09,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".photography",
+    "register_price": 28.27,
+    "renew_price": 28.27,
+    "transfer_price": 28.27,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".physio",
+    "register_price": 74.71,
+    "renew_price": 74.71,
+    "transfer_price": 74.71,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".pics",
+    "register_price": 27.27,
+    "renew_price": 27.27,
+    "transfer_price": 27.27,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".pictures",
+    "register_price": 11.85,
+    "renew_price": 11.85,
+    "transfer_price": 11.85,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".pink",
+    "register_price": 18.24,
+    "renew_price": 18.24,
+    "transfer_price": 18.24,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".plumbing",
+    "register_price": 45.61,
+    "renew_price": 45.61,
+    "transfer_price": 45.61,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".plus",
+    "register_price": 34.57,
+    "renew_price": 34.57,
+    "transfer_price": 34.57,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".poker",
+    "register_price": 52.72,
+    "renew_price": 52.72,
+    "transfer_price": 52.72,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".porn",
+    "register_price": 102.27,
+    "renew_price": 102.27,
+    "transfer_price": 102.27,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".press",
+    "register_price": 91.86,
+    "renew_price": 91.86,
+    "transfer_price": 91.86,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".pro",
+    "register_price": 29.55,
+    "renew_price": 29.55,
+    "transfer_price": 29.55,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".promo",
+    "register_price": 19.15,
+    "renew_price": 19.15,
+    "transfer_price": 19.15,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".property",
+    "register_price": 121.7,
+    "renew_price": 121.7,
+    "transfer_price": 121.7,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".protection",
+    "register_price": 2490.72,
+    "renew_price": 2490.72,
+    "transfer_price": 2490.72,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".pub",
+    "register_price": 28.27,
+    "renew_price": 28.27,
+    "transfer_price": 28.27,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".pw",
+    "register_price": 22.34,
+    "renew_price": 22.34,
+    "transfer_price": 22.34,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".quebec",
+    "register_price": 28.73,
+    "renew_price": 28.73,
+    "transfer_price": 28.73,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".racing",
+    "register_price": 24.44,
+    "renew_price": 24.44,
+    "transfer_price": 24.44,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".red",
+    "register_price": 18.24,
+    "renew_price": 18.24,
+    "transfer_price": 18.24,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".rehab",
+    "register_price": 30.1,
+    "renew_price": 30.1,
+    "transfer_price": 30.1,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".rent",
+    "register_price": 55.55,
+    "renew_price": 55.55,
+    "transfer_price": 55.55,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".republican",
+    "register_price": 30.1,
+    "renew_price": 30.1,
+    "transfer_price": 30.1,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".rest",
+    "register_price": 30.65,
+    "renew_price": 30.65,
+    "transfer_price": 30.65,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".review",
+    "register_price": 24.44,
+    "renew_price": 24.44,
+    "transfer_price": 24.44,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".reviews",
+    "register_price": 45.61,
+    "renew_price": 45.61,
+    "transfer_price": 45.61,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".rip",
+    "register_price": 19.15,
+    "renew_price": 19.15,
+    "transfer_price": 19.15,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".rocks",
+    "register_price": 14.59,
+    "renew_price": 14.59,
+    "transfer_price": 14.59,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".rodeo",
+    "register_price": 41.05,
+    "renew_price": 41.05,
+    "transfer_price": 41.05,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".ru",
+    "register_price": 4.37,
+    "renew_price": 4.37,
+    "transfer_price": 4.37,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".run",
+    "register_price": 19.52,
+    "renew_price": 19.52,
+    "transfer_price": 19.52,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".sale",
+    "register_price": 28.27,
+    "renew_price": 28.27,
+    "transfer_price": 28.27,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".sc",
+    "register_price": 95.79,
+    "renew_price": 95.79,
+    "transfer_price": 95.79,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".science",
+    "register_price": 24.44,
+    "renew_price": 24.44,
+    "transfer_price": 24.44,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".security",
+    "register_price": 2490.72,
+    "renew_price": 2490.72,
+    "transfer_price": 2490.72,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".services",
+    "register_price": 30.28,
+    "renew_price": 30.28,
+    "transfer_price": 30.28,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".sex",
+    "register_price": 102.27,
+    "renew_price": 102.27,
+    "transfer_price": 102.27,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".sexy",
+    "register_price": 3160.39,
+    "renew_price": 3160.39,
+    "transfer_price": 3160.39,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".shiksha",
+    "register_price": 16.78,
+    "renew_price": 16.78,
+    "transfer_price": 16.78,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".shoes",
+    "register_price": 47.43,
+    "renew_price": 47.43,
+    "transfer_price": 47.43,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".shop",
+    "register_price": 35.85,
+    "renew_price": 35.85,
+    "transfer_price": 35.85,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".shopping",
+    "register_price": 25.9,
+    "renew_price": 25.9,
+    "transfer_price": 25.9,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".site",
+    "register_price": 35.12,
+    "renew_price": 35.12,
+    "transfer_price": 35.12,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".ski",
+    "register_price": 49.62,
+    "renew_price": 49.62,
+    "transfer_price": 49.62,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".social",
+    "register_price": 28.27,
+    "renew_price": 28.27,
+    "transfer_price": 28.27,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".software",
+    "register_price": 28.27,
+    "renew_price": 28.27,
+    "transfer_price": 28.27,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".solar",
+    "register_price": 47.43,
+    "renew_price": 47.43,
+    "transfer_price": 47.43,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".solutions",
+    "register_price": 24.62,
+    "renew_price": 24.62,
+    "transfer_price": 24.62,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".soy",
+    "register_price": 22.98,
+    "renew_price": 22.98,
+    "transfer_price": 22.98,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".space",
+    "register_price": 28.46,
+    "renew_price": 28.46,
+    "transfer_price": 28.46,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".srl",
+    "register_price": 31.65,
+    "renew_price": 31.65,
+    "transfer_price": 31.65,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".store",
+    "register_price": 50.35,
+    "renew_price": 50.35,
+    "transfer_price": 50.35,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".stream",
+    "register_price": 24.44,
+    "renew_price": 24.44,
+    "transfer_price": 24.44,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".studio",
+    "register_price": 28.27,
+    "renew_price": 28.27,
+    "transfer_price": 28.27,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".study",
+    "register_price": 36.12,
+    "renew_price": 36.12,
+    "transfer_price": 36.12,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".surf",
+    "register_price": 32.11,
+    "renew_price": 32.11,
+    "transfer_price": 32.11,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".sx",
+    "register_price": 28.73,
+    "renew_price": 28.73,
+    "transfer_price": 28.73,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".systems",
+    "register_price": 23.71,
+    "renew_price": 23.71,
+    "transfer_price": 23.71,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".tattoo",
+    "register_price": 37.4,
+    "renew_price": 37.4,
+    "transfer_price": 37.4,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".tel",
+    "register_price": 12.49,
+    "renew_price": 12.49,
+    "transfer_price": 12.49,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".theatre",
+    "register_price": 623.68,
+    "renew_price": 623.68,
+    "transfer_price": 623.68,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".tips",
+    "register_price": 22.8,
+    "renew_price": 22.8,
+    "transfer_price": 22.8,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".tires",
+    "register_price": 87.58,
+    "renew_price": 87.58,
+    "transfer_price": 87.58,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".today",
+    "register_price": 21.89,
+    "renew_price": 21.89,
+    "transfer_price": 21.89,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".tokyo",
+    "register_price": 20.06,
+    "renew_price": 20.06,
+    "transfer_price": 20.06,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".tools",
+    "register_price": 27.09,
+    "renew_price": 27.09,
+    "transfer_price": 27.09,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".top",
+    "register_price": 8.29,
+    "renew_price": 8.29,
+    "transfer_price": 8.29,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".toys",
+    "register_price": 48.53,
+    "renew_price": 48.53,
+    "transfer_price": 48.53,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".trade",
+    "register_price": 24.44,
+    "renew_price": 24.44,
+    "transfer_price": 24.44,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".trading",
+    "register_price": 63.86,
+    "renew_price": 63.86,
+    "transfer_price": 63.86,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".travel",
+    "register_price": 107.65,
+    "renew_price": 107.65,
+    "transfer_price": 107.65,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".tube",
+    "register_price": 23.99,
+    "renew_price": 23.99,
+    "transfer_price": 23.99,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".tv",
+    "register_price": 30.65,
+    "renew_price": 30.65,
+    "transfer_price": 30.65,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".uk",
+    "register_price": 7.38,
+    "renew_price": 7.38,
+    "transfer_price": 7.38,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".uk.com",
+    "register_price": 29.73,
+    "renew_price": 29.73,
+    "transfer_price": 29.73,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".uno",
+    "register_price": 29.37,
+    "renew_price": 29.37,
+    "transfer_price": 29.37,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".us",
+    "register_price": 8.2,
+    "renew_price": 8.2,
+    "transfer_price": 8.2,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".us.com",
+    "register_price": 18.24,
+    "renew_price": 18.24,
+    "transfer_price": 18.24,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".vc",
+    "register_price": 30.65,
+    "renew_price": 30.65,
+    "transfer_price": 30.65,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".vegas",
+    "register_price": 47.89,
+    "renew_price": 47.89,
+    "transfer_price": 47.89,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".vet",
+    "register_price": 31.38,
+    "renew_price": 31.38,
+    "transfer_price": 31.38,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".video",
+    "register_price": 29.19,
+    "renew_price": 29.19,
+    "transfer_price": 29.19,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".vip",
+    "register_price": 19.33,
+    "renew_price": 19.33,
+    "transfer_price": 19.33,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".vodka",
+    "register_price": 32.11,
+    "renew_price": 32.11,
+    "transfer_price": 32.11,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".vote",
+    "register_price": 69.33,
+    "renew_price": 69.33,
+    "transfer_price": 69.33,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".voto",
+    "register_price": 65.68,
+    "renew_price": 65.68,
+    "transfer_price": 65.68,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".wales",
+    "register_price": 14.41,
+    "renew_price": 14.41,
+    "transfer_price": 14.41,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".wang",
+    "register_price": 8.66,
+    "renew_price": 8.66,
+    "transfer_price": 8.66,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".webcam",
+    "register_price": 24.44,
+    "renew_price": 24.44,
+    "transfer_price": 24.44,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".website",
+    "register_price": 27.36,
+    "renew_price": 27.36,
+    "transfer_price": 27.36,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".wedding",
+    "register_price": 32.11,
+    "renew_price": 32.11,
+    "transfer_price": 32.11,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".wiki",
+    "register_price": 31.56,
+    "renew_price": 31.56,
+    "transfer_price": 31.56,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".win",
+    "register_price": 24.44,
+    "renew_price": 24.44,
+    "transfer_price": 24.44,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".work",
+    "register_price": 13.68,
+    "renew_price": 13.68,
+    "transfer_price": 13.68,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".works",
+    "register_price": 29.19,
+    "renew_price": 29.19,
+    "transfer_price": 29.19,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".world",
+    "register_price": 31.38,
+    "renew_price": 31.38,
+    "transfer_price": 31.38,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".ws",
+    "register_price": 26.45,
+    "renew_price": 26.45,
+    "transfer_price": 26.45,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".xn--3ds443g",
+    "register_price": 29.73,
+    "renew_price": 29.73,
+    "transfer_price": 29.73,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".xn--6frz82g",
+    "register_price": 13.4,
+    "renew_price": 13.4,
+    "transfer_price": 13.4,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".xn--c1avg",
+    "register_price": 10.57,
+    "renew_price": 10.57,
+    "transfer_price": 10.57,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".xn--fiq228c5hs",
+    "register_price": 90.04,
+    "renew_price": 90.04,
+    "transfer_price": 90.04,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".xn--h2brj9c",
+    "register_price": 10.39,
+    "renew_price": 10.39,
+    "transfer_price": 10.39,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".xn--i1b6b1a6a2e",
+    "register_price": 10.57,
+    "renew_price": 10.57,
+    "transfer_price": 10.57,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".xn--ngbc5azd",
+    "register_price": 13.4,
+    "renew_price": 13.4,
+    "transfer_price": 13.4,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".xn--nqv7f",
+    "register_price": 10.57,
+    "renew_price": 10.57,
+    "transfer_price": 10.57,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".xxx",
+    "register_price": 102.27,
+    "renew_price": 102.27,
+    "transfer_price": 102.27,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".xyz",
+    "register_price": 14.04,
+    "renew_price": 14.04,
+    "transfer_price": 14.04,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".yoga",
+    "register_price": 30.01,
+    "renew_price": 30.01,
+    "transfer_price": 30.01,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".za.com",
+    "register_price": 235.29,
+    "renew_price": 235.29,
+    "transfer_price": 235.29,
+    "is_popular": 0,
+    "category": "generic"
+  },
+  {
+    "extension": ".zone",
+    "register_price": 29.19,
+    "renew_price": 29.19,
+    "transfer_price": 29.19,
+    "is_popular": 0,
+    "category": "generic"
+  }
+]

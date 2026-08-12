@@ -1,0 +1,21 @@
+.live-chat-modal[hidden] { display:none !important; }
+.live-chat-modal { position:fixed; inset:0; z-index:10050; display:grid; place-items:center; padding:1rem; background:rgba(0,0,0,.78); backdrop-filter:blur(5px); }
+.live-chat-window { width:min(520px,100%); max-height:min(760px,92vh); display:flex; flex-direction:column; overflow:hidden; color:#fff; background:#090c12; border:1px solid #00ffff; border-radius:16px; box-shadow:0 0 35px rgba(0,255,255,.25); }
+.live-chat-head { display:flex; justify-content:space-between; gap:1rem; align-items:center; padding:1rem 1.2rem; border-bottom:1px solid rgba(0,255,255,.25); }
+.live-chat-head strong { color:#00ffff; letter-spacing:.08em; }
+.live-chat-close { border:0; background:transparent; color:#fff; font-size:1.5rem; cursor:pointer; }
+.live-chat-body { padding:1rem; overflow-y:auto; }
+.live-chat-form { display:grid; gap:.8rem; }
+.live-chat-form input,.live-chat-form select,.live-chat-form textarea,.live-chat-compose input { width:100%; padding:.75rem; color:#fff; background:rgba(0,0,0,.55); border:1px solid rgba(0,255,255,.3); border-radius:8px; }
+.live-chat-form textarea { min-height:100px; resize:vertical; }
+.live-chat-status { padding:.75rem 1rem; color:#ffd15c; background:rgba(255,209,92,.07); border-bottom:1px solid rgba(255,209,92,.25); }
+.live-chat-messages { min-height:250px; max-height:430px; display:flex; flex-direction:column; gap:.65rem; overflow-y:auto; padding:1rem; }
+.live-chat-message { max-width:84%; padding:.7rem .85rem; border-radius:10px; white-space:pre-wrap; overflow-wrap:anywhere; }
+.live-chat-message.visitor,.live-chat-message.customer { align-self:flex-end; background:rgba(255,20,147,.18); border:1px solid rgba(255,20,147,.35); }
+.live-chat-message.admin { align-self:flex-start; background:rgba(0,255,255,.12); border:1px solid rgba(0,255,255,.3); }
+.live-chat-message.system { align-self:center; max-width:100%; color:rgba(255,255,255,.6); font-size:.8rem; }
+.live-chat-message small { display:block; margin-top:.3rem; color:rgba(255,255,255,.5); font-size:.68rem; }
+.live-chat-compose { display:grid; grid-template-columns:1fr auto; gap:.6rem; padding:1rem; border-top:1px solid rgba(0,255,255,.2); }
+.live-chat-actions { display:flex; justify-content:space-between; gap:.75rem; padding:0 1rem 1rem; }
+.live-chat-error { color:#ff6688; min-height:1.25rem; }
+@media (max-width:600px) { .live-chat-modal { padding:0; align-items:end; } .live-chat-window { max-height:94vh; border-radius:16px 16px 0 0; } }

@@ -1,0 +1,52 @@
+/* Local Font Declarations - HiveNest Matrix */
+/* Fonts now served from /assets/fonts directory */
+
+/* Orbitron - Variable Font (Supports weights 400-900) */
+@font-face {
+    font-family: 'Orbitron';
+    src: url('../fonts/Orbitron/Orbitron-VariableFont_wght.ttf') format('truetype');
+    font-weight: 400 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* Rajdhani - Multiple Weights */
+@font-face {
+    font-family: 'Rajdhani';
+    src: url('../fonts/Rajdhani/Rajdhani-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Rajdhani';
+    src: url('../fonts/Rajdhani/Rajdhani-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Rajdhani';
+    src: url('../fonts/Rajdhani/Rajdhani-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Rajdhani';
+    src: url('../fonts/Rajdhani/Rajdhani-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Rajdhani';
+    src: url('../fonts/Rajdhani/Rajdhani-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}

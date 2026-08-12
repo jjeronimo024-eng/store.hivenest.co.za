@@ -1,0 +1,22 @@
+# HiveNest /access/ — deny direct web access.
+# Belt-and-braces: in the long run this folder should be moved OUT of
+# public_html entirely. Until then, block every request from the browser.
+<IfModule mod_authz_core.c>
+    Require all denied
+</IfModule>
+<IfModule !mod_authz_core.c>
+    Order deny,allow
+    Deny from all
+</IfModule>
+
+# Disable PHP execution for any direct request, in case the deny rule above
+# is bypassed by a misconfiguration.
+<FilesMatch "\.(php|inc|env|ini|json|sql)$">
+    <IfModule mod_authz_core.c>
+        Require all denied
+    </IfModule>
+    <IfModule !mod_authz_core.c>
+        Order deny,allow
+        Deny from all
+    </IfModule>
+</FilesMatch>
